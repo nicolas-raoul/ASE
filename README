@@ -1,0 +1,2 @@
+Usage: Run the Groovy script, and filter to get lines that contain "[["
+If on Linux, you can just run the shell script instead.
