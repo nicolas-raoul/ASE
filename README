@@ -1,2 +1,8 @@
-Usage: Run the Groovy script, and filter to get lines that contain "[["
-If on Linux, you can just run the shell script instead.
+# Usage
+
+1. Install Groovy on your computer
+2. Download the .groovy script of this project
+3. Run the script
+4. Filter to get only the lines that contain "[["
+
+If on Linux, you can just run the shell script instead, it does the filtering.
